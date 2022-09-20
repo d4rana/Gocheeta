@@ -1,0 +1,105 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: url("images/black3.png");
+    background-position: center;
+    background-size: cover;
+  
+}
+.logo
+{
+    width: 150px;
+    margin-top: 18px;
+  
+}
+.header
+{
+    height: 10%;
+    
+}
+.header-btn
+{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 20px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    color: #ffffff;
+    background: #107afd;
+    font-weight: 600;
+ 
+}
+.Theatre-details
+{
+    margin: 20% 0;
+    
+}
+.left-box
+{
+    color: #ffffff;
+    margin: 15px 0;
+    padding: 20px;
+    font-size: 25px;
+    
+}
+.casting img
+{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.left-box a
+{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 10px;    
+    margin-top: 80px;
+    margin-right: 10px;
+    color: #ffffff;
+    background: #107afd;
+    font-weight: 600;
+    display: inline-block;
+}
+.download-btn
+{
+    border: 1px solid #ffffff;
+    background: transparent !important;
+    
+}
+.movie-img
+{
+    height: 550px;
+    margin-bottom:50px;
+    margin-left:150px;
+    box-shadow: -4px 4px 5px 0 #000;
+    transition: 1s;
+    
+}
+.series h3
+{
+    color: #ffffff;
+}
+.series img
+{
+   
+   margin-top: 15px;
+   margin-right: 10px;
+   font-weight: 600;
+   height: 350px;
+   box-shadow: -4px 4px 5px 0 #000;
+   cursor: pointer;
+   transition: 1s;
+   
+}
+.series img:hover{
+    transform: translateY(-10px);
+}
+.movie-img:hover{
+    transform: translateY(-10px);
+}

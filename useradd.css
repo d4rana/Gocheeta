@@ -1,0 +1,90 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: url("images/background1.png");
+    background-position: center;
+    background-size: cover;
+  
+}
+.logo
+{
+    width: 150px;
+    margin-top: 18px;
+  
+}
+.header
+{
+    height: 10%;
+    
+}
+.header-btn
+{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 20px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    color: #ffffff;
+    background: #107afd;
+    font-weight: 600;
+ 
+}
+.username
+{
+   text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 20px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    color: #ffffff;
+    background: #107afd;
+    font-weight: 600;
+  
+}
+.profiles
+{
+   text-decoration: none;
+   padding: 10px 150px;
+   margin-left:230px;
+   margin-top: 30px;
+   color:  #000000;
+   font-family: monospace;
+   font-size: 15.5258px;
+}
+.h1
+{
+   padding: 10px 150px;
+   margin-left:555px;
+   margin-top: 15px;
+   color: #000;
+   font-size: 24px;
+   font-family: fantasy;
+}
+.h2
+{
+    padding: 10px 150px;
+    color: #000;
+    margin-top: 50px;
+    margin-left:75px;
+    font-size: 19.5258px;
+    display: inline-block;
+    background: #006666;
+    font-weight: 700;
+}
+.h3{
+    padding: 10px 150px;
+    color: #000;
+    margin-top: 50px;
+    margin-left:75px;
+    font-size: 19.5258px;
+    display: inline-block;
+    background: #006699;
+    font-weight: 700;
+    
+}
